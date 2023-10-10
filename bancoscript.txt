@@ -1,0 +1,8 @@
+CREATE TABLE [dbo].[jogos] (
+    [Codigo] INT           IDENTITY (1, 1) NOT NULL,
+    [Nome]   NVARCHAR (50) NOT NULL,
+    [Genero] NVARCHAR (50) NOT NULL,
+    [Class]  NVARCHAR (50) NOT NULL,
+    [Preco]  MONEY         NOT NULL,
+    PRIMARY KEY CLUSTERED ([Codigo] ASC)
+);

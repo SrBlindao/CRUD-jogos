@@ -1,0 +1,86 @@
+C:\Users\erik_\OneDrive\Documentos\Solution1\site\bin\site.dll.config
+C:\Users\erik_\OneDrive\Documentos\Solution1\site\bin\site.dll
+C:\Users\erik_\OneDrive\Documentos\Solution1\site\bin\site.pdb
+C:\Users\erik_\OneDrive\Documentos\Solution1\site\bin\roslyn\csc.exe
+C:\Users\erik_\OneDrive\Documentos\Solution1\site\bin\roslyn\csc.exe.config
+C:\Users\erik_\OneDrive\Documentos\Solution1\site\bin\roslyn\csc.rsp
+C:\Users\erik_\OneDrive\Documentos\Solution1\site\bin\roslyn\csi.exe
+C:\Users\erik_\OneDrive\Documentos\Solution1\site\bin\roslyn\csi.exe.config
+C:\Users\erik_\OneDrive\Documentos\Solution1\site\bin\roslyn\csi.rsp
+C:\Users\erik_\OneDrive\Documentos\Solution1\site\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\erik_\OneDrive\Documentos\Solution1\site\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\erik_\OneDrive\Documentos\Solution1\site\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\erik_\OneDrive\Documentos\Solution1\site\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\erik_\OneDrive\Documentos\Solution1\site\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\erik_\OneDrive\Documentos\Solution1\site\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\erik_\OneDrive\Documentos\Solution1\site\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\erik_\OneDrive\Documentos\Solution1\site\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\erik_\OneDrive\Documentos\Solution1\site\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\erik_\OneDrive\Documentos\Solution1\site\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\erik_\OneDrive\Documentos\Solution1\site\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\erik_\OneDrive\Documentos\Solution1\site\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\erik_\OneDrive\Documentos\Solution1\site\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\erik_\OneDrive\Documentos\Solution1\site\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\erik_\OneDrive\Documentos\Solution1\site\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\erik_\OneDrive\Documentos\Solution1\site\bin\roslyn\vbc.exe
+C:\Users\erik_\OneDrive\Documentos\Solution1\site\bin\roslyn\vbc.exe.config
+C:\Users\erik_\OneDrive\Documentos\Solution1\site\bin\roslyn\vbc.rsp
+C:\Users\erik_\OneDrive\Documentos\Solution1\site\bin\roslyn\VBCSCompiler.exe
+C:\Users\erik_\OneDrive\Documentos\Solution1\site\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\erik_\OneDrive\Documentos\Solution1\site\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\erik_\OneDrive\Documentos\Solution1\site\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\erik_\OneDrive\Documentos\Solution1\site\obj\Debug\site.csproj.AssemblyReference.cache
+C:\Users\erik_\OneDrive\Documentos\Solution1\site\obj\Debug\site.csproj.CoreCompileInputs.cache
+C:\Users\erik_\OneDrive\Documentos\Solution1\site\obj\Debug\site.csproj.CopyComplete
+C:\Users\erik_\OneDrive\Documentos\Solution1\site\obj\Debug\site.dll
+C:\Users\erik_\OneDrive\Documentos\Solution1\site\obj\Debug\site.pdb
+C:\Users\erik_\OneDrive\Documentos\Solution1\site\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+C:\Users\erik_\OneDrive\Documentos\Solution1\site\bin\roslyn\System.Buffers.dll
+C:\Users\erik_\OneDrive\Documentos\Solution1\site\bin\roslyn\System.Memory.dll
+C:\Users\erik_\OneDrive\Documentos\Solution1\site\bin\roslyn\System.Numerics.Vectors.dll
+C:\Users\erik_\OneDrive\Documentos\Solution1\site\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\erik_\OneDrive\Documentos\Solution1\site\bin\DAL.dll
+C:\Users\erik_\OneDrive\Documentos\Solution1\site\bin\DAL.pdb
+C:\Users\erik_\OneDrive\Documentos\GitHub\CRUD jogos\site\bin\site.dll.config
+C:\Users\erik_\OneDrive\Documentos\GitHub\CRUD jogos\site\bin\site.dll
+C:\Users\erik_\OneDrive\Documentos\GitHub\CRUD jogos\site\bin\site.pdb
+C:\Users\erik_\OneDrive\Documentos\GitHub\CRUD jogos\site\bin\roslyn\csc.exe
+C:\Users\erik_\OneDrive\Documentos\GitHub\CRUD jogos\site\bin\roslyn\csc.exe.config
+C:\Users\erik_\OneDrive\Documentos\GitHub\CRUD jogos\site\bin\roslyn\csc.rsp
+C:\Users\erik_\OneDrive\Documentos\GitHub\CRUD jogos\site\bin\roslyn\csi.exe
+C:\Users\erik_\OneDrive\Documentos\GitHub\CRUD jogos\site\bin\roslyn\csi.exe.config
+C:\Users\erik_\OneDrive\Documentos\GitHub\CRUD jogos\site\bin\roslyn\csi.rsp
+C:\Users\erik_\OneDrive\Documentos\GitHub\CRUD jogos\site\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\erik_\OneDrive\Documentos\GitHub\CRUD jogos\site\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\erik_\OneDrive\Documentos\GitHub\CRUD jogos\site\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\erik_\OneDrive\Documentos\GitHub\CRUD jogos\site\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\erik_\OneDrive\Documentos\GitHub\CRUD jogos\site\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\erik_\OneDrive\Documentos\GitHub\CRUD jogos\site\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\erik_\OneDrive\Documentos\GitHub\CRUD jogos\site\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\erik_\OneDrive\Documentos\GitHub\CRUD jogos\site\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\erik_\OneDrive\Documentos\GitHub\CRUD jogos\site\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\erik_\OneDrive\Documentos\GitHub\CRUD jogos\site\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+C:\Users\erik_\OneDrive\Documentos\GitHub\CRUD jogos\site\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\erik_\OneDrive\Documentos\GitHub\CRUD jogos\site\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\erik_\OneDrive\Documentos\GitHub\CRUD jogos\site\bin\roslyn\System.Buffers.dll
+C:\Users\erik_\OneDrive\Documentos\GitHub\CRUD jogos\site\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\erik_\OneDrive\Documentos\GitHub\CRUD jogos\site\bin\roslyn\System.Memory.dll
+C:\Users\erik_\OneDrive\Documentos\GitHub\CRUD jogos\site\bin\roslyn\System.Numerics.Vectors.dll
+C:\Users\erik_\OneDrive\Documentos\GitHub\CRUD jogos\site\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\erik_\OneDrive\Documentos\GitHub\CRUD jogos\site\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\erik_\OneDrive\Documentos\GitHub\CRUD jogos\site\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\erik_\OneDrive\Documentos\GitHub\CRUD jogos\site\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\erik_\OneDrive\Documentos\GitHub\CRUD jogos\site\bin\roslyn\vbc.exe
+C:\Users\erik_\OneDrive\Documentos\GitHub\CRUD jogos\site\bin\roslyn\vbc.exe.config
+C:\Users\erik_\OneDrive\Documentos\GitHub\CRUD jogos\site\bin\roslyn\vbc.rsp
+C:\Users\erik_\OneDrive\Documentos\GitHub\CRUD jogos\site\bin\roslyn\VBCSCompiler.exe
+C:\Users\erik_\OneDrive\Documentos\GitHub\CRUD jogos\site\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\erik_\OneDrive\Documentos\GitHub\CRUD jogos\site\bin\DAL.dll
+C:\Users\erik_\OneDrive\Documentos\GitHub\CRUD jogos\site\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\erik_\OneDrive\Documentos\GitHub\CRUD jogos\site\bin\DAL.pdb
+C:\Users\erik_\OneDrive\Documentos\GitHub\CRUD jogos\site\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\erik_\OneDrive\Documentos\GitHub\CRUD jogos\site\obj\Debug\site.csproj.AssemblyReference.cache
+C:\Users\erik_\OneDrive\Documentos\GitHub\CRUD jogos\site\obj\Debug\site.csproj.CoreCompileInputs.cache
+C:\Users\erik_\OneDrive\Documentos\GitHub\CRUD jogos\site\obj\Debug\site.csproj.CopyComplete
+C:\Users\erik_\OneDrive\Documentos\GitHub\CRUD jogos\site\obj\Debug\site.dll
+C:\Users\erik_\OneDrive\Documentos\GitHub\CRUD jogos\site\obj\Debug\site.pdb
